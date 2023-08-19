@@ -1,0 +1,2 @@
+Word= "EdYoda"[::-1]
+print("The reversed word is:",Word)
