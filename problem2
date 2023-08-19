@@ -1,0 +1,3 @@
+Word=input("Please enter a word:")
+reversed_word=Word[::-1]
+print("The reversed order  for the word you given is:",reversed_word) 
